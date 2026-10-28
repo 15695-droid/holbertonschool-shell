@@ -1,1 +1,3 @@
 #!/bin/bash
+echo "result of the command ls -la" > ls_cwd_content 
+
